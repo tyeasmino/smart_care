@@ -144,8 +144,7 @@ python-dotenv
 python-multipart
 pytweening
 pytz
-PyWavelets
-pywinpty
+PyWavelets 
 PyYAML
 pyzmq
 qtconsole
